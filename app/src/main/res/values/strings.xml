@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TableLayout</string>
+    <string name="colorRed">Color1</string>
+    <string name="colorYellow">Color 2</string>
+    <string name="colorIndigo">color 3</string>
+    <string name="clear">Clear</string>
+</resources>
